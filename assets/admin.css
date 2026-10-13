@@ -1,0 +1,11 @@
+.rpss-wrap table.form-table th {
+	width: 220px;
+}
+.rpss-wrap .notice.inline {
+	display: inline-block;
+	margin: 10px 0;
+}
+#rpss-run-status {
+	color: #666;
+	font-style: italic;
+}
